@@ -1,6 +1,4 @@
-import './temp'
-import "./components/my-element";
+import "./components/length-converter";
+import "./components/temperature-converter";
 
-console.log("Lit component loaded");
-const message: string = "Hello TypeScript + Webpack!";
-console.log(message);
+console.log("Unit converters loaded");
